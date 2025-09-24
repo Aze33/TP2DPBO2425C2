@@ -1,10 +1,5 @@
 # File: main.py
 
-# --- JANJI ---
-# Saya, [Isi Nama Lengkap Anda] dengan NIM [Isi NIM Anda], 
-# mengerjakan soal TP2 untuk keberkahanNya maka saya tidak
-# melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
-
 from PerangkatPortabel import PerangkatPortabel
 
 def tampilkan_data(daftar_perangkat):
@@ -105,4 +100,5 @@ def main():
             input("\nTekan Enter untuk kembali ke menu...")
 
 if __name__ == "__main__":
+
     main()
