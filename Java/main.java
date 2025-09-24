@@ -105,9 +105,6 @@ public class main {
     }
 
     public static void main(String[] args) {
-        // --- JANJI ---
-        // Saya, [Isi Nama Lengkap Anda] dengan NIM [Isi NIM Anda], mengerjakan soal TP2
-        // untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
         // 5 Objek awal (hardcode)
         daftarPerangkat.add(new PerangkatPortabel("SP001", "Galaxy S25", "Samsung", 20000000, 2025, "Baru", 12, "Titanium", "Aluminium", 5000, 180, "USB-C"));
@@ -161,4 +158,5 @@ public class main {
         
         scanner.close();
     }
+
 }
