@@ -79,10 +79,6 @@ void tampilkanData(const vector<PerangkatPortabel>& daftarPerangkat) {
 }
 
 int main() {
-    // --- JANJI ---
-    // Saya, [Isi Nama Lengkap Anda] dengan NIM [Isi NIM Anda], mengerjakan soal TP2
-    // untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
-
     vector<PerangkatPortabel> daftarPerangkat;
 
     // 5 Objek awal
@@ -149,4 +145,5 @@ int main() {
     } while (pilihan != 3);
 
     return 0;
+
 }
